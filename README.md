@@ -5,6 +5,8 @@
 
 ![Kauet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xboffo&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xboffo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias do meu dia a dia 
 
 <div style = "display: inline_block"><br/>
@@ -15,4 +17,4 @@
  Apaixonado por tecnologia, estudando e buscando evoluir cada vez mais!
 
  ##Email para contato:
- - [Email para contato](kauet123@live.com)<br/>
+ - [Email para contato: kauet123@live.com])<br/>
